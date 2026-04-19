@@ -1,0 +1,2 @@
+SSL,Backbone,Accuracy,Macro Precision,Macro Recall,Macro F1,Macro ROC-AUC,Silhouette,FT Accuracy,FT F1,LP vs FT delta,kNN-1,kNN-5,kNN-20,Pretrain Time (s),FineTune Time (s),GFLOPs
+DINO,efficientnet_b0,0.455,0.4652,0.4883,0.4753,0.7902,-0.0305,0.6836,0.7204,0.2286,0.5798,0.5463,0.525,19451.9,1826.4,0.385
