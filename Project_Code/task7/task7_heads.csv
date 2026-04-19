@@ -1,0 +1,6 @@
+Head,BYOL,BarlowTwins,DINO
+Linear Probe,0.3012,0.2986,0.455
+MLP,0.316,0.2692,0.5352
+SVM (RBF),0.2723,0.2785,0.5441
+Decision Tree,0.2865,0.2687,0.3039
+Random Forest,0.3587,0.2901,0.4091

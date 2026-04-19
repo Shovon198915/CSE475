@@ -1,0 +1,4 @@
+pair,W,p,sig,mean_diff
+BYOL vs BarlowTwins,19.0,0.7344,ns,0.0002
+BYOL vs DINO,0.0,0.0039,**,-0.1031
+BarlowTwins vs DINO,0.0,0.0039,**,-0.1033
